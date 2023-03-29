@@ -217,4 +217,76 @@
     top: 6px;
     left: 2px;
   }
+
+
+
+
+  .v3_23 {
+    width: 356px;
+    height: 80px;
+    background: url("../images/v3_23.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_18 {
+    width: 350px;
+    height: 75px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    border: 2px solid rgba(0,0,0,1);
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    overflow: hidden;
+  }
+  .v1_17 {
+    width: 350px;
+    height: 75px;
+    background: rgba(183,175,232,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    border: 2px solid rgba(0,0,0,1);
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    overflow: hidden;
+  }
+  .v1_19 {
+    width: 220px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 10px;
+    left: 46px;
+    font-family: Catamaran;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v1_20 {
+    width: 150px;
+    color: rgba(77,71,71,1);
+    position: relative;
+    top: 32px;
+    left: 46px;
+    font-family: Catamaran;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  
   
