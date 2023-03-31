@@ -369,23 +369,78 @@ h2 {
 
 }
 
-.services{
+.services {
     align-items: center;
 }
 
-.v12{
+.v12 {
     align-items: center;
-    background: rgba(183,175,232,1);
+    background: rgba(183, 175, 232, 1);
     text-align: center;
-    
+
     width: 134px;
-    height:30px ;
+    height: 30px;
     border-radius: 8px;
     font-family: Catamaran;
 
     font-weight: 800;
-    color:#6958D3;
+    color: #6958D3;
     letter-spacing: 0.2em;
+
+}
+
+#service-image {
+    /* -ms-grid-column-align: center; */
+    /* margin-left: 60px; */
+    /* align-items: center; */
+    margin-left: 30px;
+}
+
+
+/* profile */
+.sidebar {
+    position: fixed;
+    top: 75px;
+    bottom: 0;
+    left: 0;
+    padding: 58px 0 0;
+    /* Height of navbar */
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 5%), 0 2px 10px 0 rgb(0 0 0 / 5%);
     
+    width: 240px;
+    z-index: 600;
+}
+
+@media (max-width: 991.98px) {
+    .sidebar {
+        width: 100%;
+    }
+}
+
+.sidebar .active {
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.sidebar-sticky {
+    position: fixed;
+    top: 0;
+    height: calc(100vh - 48px);
+    padding-top: 0.5rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* Scrollable contents if viewport is shorter than content. */
+}
+
+.profile-heading {
+    font-family: Roboto;
+    display: inline; 
+    margin-left: 100px;
+    /* font-size: 21px;
+    font-weight: 700;
+    line-height: 36px; */
+    letter-spacing: 0em;
+    text-align: center;
+
 }
 
