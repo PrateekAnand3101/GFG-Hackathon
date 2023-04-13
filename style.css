@@ -21,8 +21,10 @@ body {
 }
 
 .navbar {
+    
     align-items: center;
     text-align: center;
+    justify-content: center;
 }
 
 /* landing */
@@ -460,7 +462,7 @@ h2 {
 
     position: relative;
     width: 199px;
-    height: 121.42px;
+    height: 181.42px;
     margin-left: 80px;
     margin-top: 60px;
     background: linear-gradient(151.41deg, rgba(183, 175, 233, 0.6) 4.63%, rgba(151, 138, 231, 0.86) 95.48%);
@@ -530,5 +532,3 @@ h2 {
       transform: rotate(145deg);
     }
   }
-
-/* background: linear-gradient(180deg, rgba(105, 88, 211, 0.9) 0%, rgba(105, 88, 211, 0.54) 100%); */
