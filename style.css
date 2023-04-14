@@ -23,8 +23,6 @@ body {
 .navbar {
     
     align-items: center;
-    text-align: center;
-    justify-content: center;
 }
 
 /* landing */
@@ -434,7 +432,7 @@ h2 {
     /* Scrollable contents if viewport is shorter than content. */
 }
 
-0 .profile-heading {
+ .profile-heading {
     font-family: Roboto;
     display: inline;
     margin-left: 100px;
