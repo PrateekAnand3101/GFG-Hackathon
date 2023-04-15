@@ -32,7 +32,7 @@ body {
     height: 299px;
     /* border-radius: 0% 0% 0% 15%; */
     border-color: #000000;
-    /* border-radius: 8px; */
+    border-radius: 8px;
     background: url("../images/v3_22.png");
     background-repeat: no-repeat;
     background-position: center center;
