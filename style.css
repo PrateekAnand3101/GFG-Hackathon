@@ -33,7 +33,7 @@ body {
     /* border-radius: 0% 0% 0% 15%; */
     border-color: #000000;
     /* border-radius: 8px; */
-    background: url("../images/v3_22.png");
+    /* background: url("../images/v3_22.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -435,13 +435,13 @@ h2 {
 
  .profile-heading {
     font-family: Roboto;
-    display: inline;
-    margin-left: 100px;
+    /* display: inline; */
+    /* margin-left: 300px; */
     /* font-size: 21px;
     font-weight: 700;
     line-height: 36px; */
     letter-spacing: 0em;
-    text-align: center;
+    /* text-align: center; */
 
 }
 
